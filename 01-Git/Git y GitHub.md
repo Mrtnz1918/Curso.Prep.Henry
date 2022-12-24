@@ -88,7 +88,7 @@ Existen muchas otras configuraciones de Git que puedes encontrar en el comando g
 
     - git show: nos muestra los cambios que han existido sobre un archivo y es muy útil para detectar cuando se produjeron ciertos cambios, qué se rompió y cómo lo podemos solucionar. Pero podemos ser mas detallados.
 
-    - git diff: nos muestra la diferencia entre una version y otra, no necesariamente todos los cambios desde la creación. (Gif diff commitA commitB).
+    - git diff: nos muestra la diferencia entre una version y otra, no necesariamente todos los cambios desde la creación. (Git diff commitA commitB).
 
 # Volver en el tiempo en nuestro repositorio utilizando reset y checkout 🏃🏻‍♀️⏱
 
